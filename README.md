@@ -6,7 +6,7 @@ The above variables are environment variables who are comming from evn file
 Backend code will be executedin the following:
 
 1. npm install
-2. npm node index.js
+2. npm node serverx.js
 
 Frontend code will be executed in the following:
 
